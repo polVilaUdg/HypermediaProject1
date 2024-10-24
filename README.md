@@ -6,10 +6,9 @@ introduction
 
 
 ### User Persona: 
-blablabal
+The user persona of this project is a recruiter looking for a web developer to hire
 
-**Key Characteristics**:
-tatatatatata
+**Demographic:** Middle-aged man, living in an urban area,  
 
 ---
 ### Information Architecture
@@ -17,7 +16,7 @@ tatatatatata
 The information architecture of the website is structured to be intuitive, fluid and satisfactory. Key sections are distributed as follows:
 
 - **Home Page**: blabla
-- **kjdfdfdf**: fdsfasdfsf
+- **kjdfdfdf**: fdsfasdfsfa
 ---
 
 ### Visual Design
