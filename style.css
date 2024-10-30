@@ -8,6 +8,8 @@ body{
     background: linear-gradient(120deg,#200336,#103242,#200336);
     background-size: 500% 100%;
     animation: gradientanimation 30s linear infinite;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);
+    margin: 0px;
 }
 @keyframes gradientanimation {
     0% { background-position: 0% 0%; }
@@ -20,20 +22,22 @@ nav{
     text-align: right;
     padding-top:15px;
     padding-bottom: 10px;
+    margin-right: 25px;
     
 }
 nav a{
     font-size:20px;
-    color:white;
+    color:rgb(220, 220, 220);
     text-decoration: none;
     padding:22px;
     display: inline-block; /*sino no funciona transform*/
 }
 
 nav a:hover{
+    color:white;
     text-decoration: underline;
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.9);
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 #portada{
@@ -49,6 +53,16 @@ nav a:hover{
     width:500px;
     border-radius: 15%;;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.7);
+    animation:pic-bounce 3s infinite ease;
+}
+
+@keyframes pic-bounce{
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(10px);
+    }
 }
 
 #presentacio{
@@ -65,8 +79,8 @@ nav a:hover{
 
 .code {
     font-family: "Courier New", Courier, monospace;
-    color: #00ff00; /* Green text */
-    background-color: black; /* Terminal-like background */
+    color: #00ff00;
+    background-color: black; 
     display: inline-block;
     padding: 4px 50px;
     border-radius: 6px;
@@ -75,24 +89,24 @@ nav a:hover{
 }
 
 .code::before {
-    content: ">"; /* Adding the '>' prompt symbol */
-    color: #00ff00; /* Same color as the text */
+    content: ">";
+    color: #00ff00;
     margin-right: 2px;
 }
 
 .code::after {
-    content: "_"; /* Adding the underscore cursor */
+    content: "_";
     color: #00ff00;
     margin-left: 2px;
-    animation: blink 1s steps(1) infinite; /* Blinking animation */
+    animation: blink 1s steps(1) infinite;
 }
 
 @keyframes blink {
     0%, 50% {
-        opacity: 1; /* Cursor visible */
+        opacity: 1;
     }
     50%, 100% {
-        opacity: 0; /* Cursor hidden */
+        opacity: 0;
     }
 }
 
@@ -108,9 +122,9 @@ nav a:hover{
     display:inline-block;
     border: none;
     background: none;
-    animation: bounce 1.5s infinite;
+    animation: arrow-bounce 1.5s infinite;
 }
-@keyframes bounce{
+@keyframes arrow-bounce{
     0%, 100% {
         transform: translateY(0);
     }
@@ -118,4 +132,13 @@ nav a:hover{
         transform: translateY(-20px);
     }
 
+}
+
+
+#aboutme{
+margin-left:50px;
+}
+
+h1{
+    font-size:50px;
 }
