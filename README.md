@@ -48,6 +48,6 @@ The layout maintains a clean, modern look, with spacing that aids readability an
 ## Design proposal
 Figma Project:
 
-[**Figma Project Link**]([[https://www.figma.com]([https://www.figma.com/design/FMwiS6axCqxAILNrGb6gry/HypermediaProject1?t=KJzerx7vgzRDLrK2-1])
+[**Figma Project Link**](https://www.figma.com/design/FMwiS6axCqxAILNrGb6gry/HypermediaProject1?t=KJzerx7vgzRDLrK2-1)
 
 ---
