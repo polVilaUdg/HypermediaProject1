@@ -3,7 +3,26 @@
 ## Project analysis
 
 ### User Persona: 
-The user persona of this project is a recruiter looking for a web developer to hire.
+
+### User Persona: Taylor Brooks
+
+**Role**: Tech Recruiter
+
+**Background**  
+Taylor is a recruiter focused on tech jobs, reviewing portfolios and CVs to find people for software roles. They look at many student CVs, so they appreciate when information is easy to find.
+
+**Goals**  
+- **Quick Skill Check**: Needs to see key skills, experience, and education at a glance.
+- **Project Examples**: Wants clear descriptions of projects to understand what the candidate has done.
+- **Simple Contact Options**: Seeks quick access to LinkedIn, email, or other contact info.
+
+**Pain points**  
+- **Limited Time**: Skips CVs with complex layouts or missing key information.
+- **Unclear Roles**: Finds it frustrating when project descriptions don’t explain the candidate's role or skills used.
+
+**Motivations**  
+- **Fast Candidate Review**: Prefers well-organized, easy-to-read CVs.
+- **Professional Layout**: Looks for CVs that feel polished, well organized, and clean.
 
 ---
 ### Information Architecture
