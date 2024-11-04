@@ -22,7 +22,7 @@ This structure supports a clean, easy-to-navigate CV site that showcases skills 
 
 This CV website uses a modern, visually engaging design:
 
-##### Color Scheme:
+##### **Color Scheme**:
 - A dark gradient background with teal highlights (`#0ce6a8`) creates a stylish and cohesive look, contrasting well with white text.
   The color palette used is the following:
 - ![#2E332F](https://placehold.co/15x15/2E332F/2E332F.png) `#2E332F`
@@ -32,9 +32,9 @@ This CV website uses a modern, visually engaging design:
 - ![#103242](https://placehold.co/15x15/103242/103242.png) `#103242`
 - ![#200336](https://placehold.co/15x15/200336/200336.png) `#200336`
 
-#####Typography:
+##### **Typography**:
   [Poppins](https://fonts.google.com/specimen/Poppins): Modern and versatile sans-serif with a clean and friendly look.
-##### Page Layout
+##### **Page Layout**:
 
 - **Landing Section**: Full-screen introduction with a navigation bar, profile picture, and personal introduction. The layout is vertically centered for a clean, welcoming first impression.
 - **About Me Section**: Two-column layout featuring a personal description on the left and a skills area with mastered technologies on the right, creating a balanced and informative overview.
@@ -48,6 +48,6 @@ The layout maintains a clean, modern look, with spacing that aids readability an
 ## Design proposal
 Figma Project:
 
-[**Figma Project Link**]([https://www.figma.com](https://www.figma.com/design/FMwiS6axCqxAILNrGb6gry/HypermediaProject1?t=KJzerx7vgzRDLrK2-1))
+[**Figma Project Link**]([[https://www.figma.com]([https://www.figma.com/design/FMwiS6axCqxAILNrGb6gry/HypermediaProject1?t=KJzerx7vgzRDLrK2-1])
 
 ---
