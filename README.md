@@ -4,7 +4,7 @@
 
 ### User Persona: 
 
-### User Persona: Taylor Brooks
+#### User Persona: Taylor Brooks
 
 **Role**: Tech Recruiter
 
