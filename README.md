@@ -70,3 +70,10 @@ Figma Project:
 [**Figma Project Link**](https://www.figma.com/design/FMwiS6axCqxAILNrGb6gry/HypermediaProject1?t=KJzerx7vgzRDLrK2-1)
 
 ---
+## Deployed page:
+
+[**Gihub Pages Link**](https://polvilaudg.github.io/HypermediaProject1/)
+
+---
+
+
